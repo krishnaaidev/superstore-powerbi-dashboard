@@ -124,7 +124,7 @@ Version Control	https://img.shields.io/badge/Git-F05032?style=flat-square&logo=g
 
 Project Maintainer: Suman Krishna
 📧 krishnasuman@myyahoo.com
-🔗 GitHub Repository
+🔗 GitHub Repository - [https://github.com/krishnaaidev/superstore-powerbi-dashboard]
 
 Issues and pull requests are welcome. For major changes, please open a discussion first.
 
