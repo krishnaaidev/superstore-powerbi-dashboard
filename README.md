@@ -6,6 +6,9 @@
 An end‑to‑end business intelligence project analysing the **Sample Superstore** dataset. Includes an interactive **Power BI dashboard** and a **Python analysis script** that generates statistical summaries and charts.
 
 ![Dashboard Preview](documentation/images/executive_overview.jpeg)
+![Dashboard Preview](documentation/images/regional_&_segment_analysis.jpeg)
+![Dashboard Preview](documentation/images/product_performance.jpeg)
+
 
 ---
 
