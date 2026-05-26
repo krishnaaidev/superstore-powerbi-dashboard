@@ -1,0 +1,5 @@
+*.pbix.lock
+__pycache__/
+python_analysis/outputs/
+.DS_Store
+*.pyc
