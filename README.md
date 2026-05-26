@@ -115,8 +115,11 @@ Consumer segment high volume, but Corporate has better profit per order	Tailor l
 <div align="center">
 Category	Technologies
 Dashboard & Modelling	https://img.shields.io/badge/Power%2520BI-F2C811?style=flat-square&logo=powerbi&logoColor=black DAX, Power Query
+
 Data Analysis	https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white
+
 Visualisation	https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square&logo=python&logoColor=white
+
 Version Control	https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white
 </div>
 
