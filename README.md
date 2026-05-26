@@ -2,7 +2,6 @@
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An end‑to‑end business intelligence project analysing the **Sample Superstore** dataset. Includes an interactive **Power BI dashboard** and a **Python analysis script** that generates statistical summaries and charts.
 
