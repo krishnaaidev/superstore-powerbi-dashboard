@@ -14,6 +14,7 @@ An end‑to‑end business intelligence project analysing the **Sample Superstor
 
 ## 📁 Project Structure
 Superstore_Dashboard/
+.
 ├── data/
 │ └── SampleSuperstore.csv # Raw dataset
 ├── powerbi/
